@@ -1,5 +1,5 @@
 # Netflix-Movies-And-TV-Shows-Clustering-Project
-# Netflix Content Clustering and EDA
+
 
 This repository contains the code and findings for a data-driven approach to clustering and exploratory data analysis (EDA) of Netflix movies and TV shows. The goal of this project is to organize Netflix's extensive content library into distinct categories using unsupervised machine learning methods and to gain insights into its diverse characteristics through EDA. This approach aims to enhance the user experience by offering personalized content recommendations and informing content-related decisions.
 ![image](https://github.com/DevanshA2511/Netflix-Movies-And-TV-Shows-Clustering-Project/assets/130047748/088755bd-a799-40af-b6e5-ce5fe765f5fd)
